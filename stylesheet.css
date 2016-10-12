@@ -1,3 +1,7 @@
 body {
-   padding: 25%, 25%, 25%, 25%;
+   padding: 50%, 50%, 50%, 50%;
+}
+
+.home {
+   text-align: center;
 }
