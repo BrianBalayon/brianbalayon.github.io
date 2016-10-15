@@ -11,9 +11,8 @@ div h2 {
    font-weight: bold;
 }
 
-a.top {
-   text-align: right;
-   color: #FFFFF;
+a:link {
+   color: #FFFFFF;
 }
 
 
