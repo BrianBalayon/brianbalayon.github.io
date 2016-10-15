@@ -11,24 +11,23 @@ body {
 
 #directory {
    text-align: center;
-   background-color: #BED1EE;
 }
 
 #summary {
    text-align: center;
-   background-color: #BED1EE;
 }
 #education {
    text-align: left;
-   background-color: #BED1EE;
 }
 
 #projects {
    text-align: left;
-   background-color: #BED1EE;
 }
 
 #interests {
    text-align: center;
+}
+
+div.well-lg {
    background-color: #BED1EE;
 }
