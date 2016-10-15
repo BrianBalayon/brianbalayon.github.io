@@ -2,8 +2,13 @@ body {
    background-color: #081220;
 }
 
+div h1 {
+   font-weight: bold;
+}
+
 div h2 {
    text-align: center;
+   font-weight: bold;
 }
 
 a.top {
