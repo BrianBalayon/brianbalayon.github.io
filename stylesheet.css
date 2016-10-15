@@ -6,6 +6,11 @@ body {
    text-align: right;
 }
 
+div.top {
+   text-align: center;
+   text-decoration-color: #FFFFFF;
+}
+
 div.directory {
    text-align: center;
    background-color: #EFF3FB;
