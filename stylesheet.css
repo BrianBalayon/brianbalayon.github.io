@@ -11,16 +11,9 @@ div h2 {
    font-weight: bold;
 }
 
-body a {
-   color: #FFFFFF;
-}
-
-
-
-}
-
 #top {
    text-align: center;
+   font-weight: bold;
    color: #FFFFFF;
 }
 
