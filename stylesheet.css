@@ -2,11 +2,9 @@ body {
    background-color: #9EB9E6;
 }
 
-}
-
 #top {
    text-align: center;
-   text-decoration-color: #BED1EE;
+   color: #FFFFFF;
 }
 
 #directory {
@@ -29,5 +27,5 @@ body {
 }
 
 div.well-lg {
-   background-color: #BED1EE;
+   background-color: #EFF3FB;
 }
