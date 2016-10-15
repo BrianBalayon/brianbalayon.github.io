@@ -1,5 +1,5 @@
 body {
-   background-color: #0D1A31;
+   background-color: #9EB9E6;
 }
 
 .top {
@@ -8,12 +8,12 @@ body {
 
 div.top {
    text-align: center;
-   text-decoration-color: #FFFFFF;
+   text-decoration-color: #BED1EE;
 }
 
 div.directory {
    text-align: center;
-   background-color: #DFE8F7;
+   background-color: #BED1EE;
 }
 
 div.summary {
@@ -23,15 +23,15 @@ div.summary {
 
 div.education {
    text-align: left;
-   background-color: #9EB9E6;
+   background-color: #BED1EE;
 }
 
 div.projects {
    text-align: left;
-   background-color: #7DA2DE;
+   background-color: #BED1EE;
 }
 
 div.interests {
    text-align: center;
-   background-color: #5687D4;
+   background-color: #BED1EE;
 }
