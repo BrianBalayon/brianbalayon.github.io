@@ -23,15 +23,18 @@ a.head {
    color: #FFFFFF;
 }
 
-li.directory {
-   display: inline;
-   list-style-type: none;
+#directory {
    text-align: center;
 }
 
-li.directory a{
+li.directory {
+   display: inline;
+   list-style-type: none;
+}
+
+li.directory a {
    color: #FFFFFF;
-   text-align: center;
+   padding: 5px;
 }
 
 #summary {
