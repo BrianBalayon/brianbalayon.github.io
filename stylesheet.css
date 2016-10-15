@@ -6,6 +6,10 @@ div ~ .top {
   text-align: left;
 }
 
+div ~ h2 {
+   text-align: center;
+}
+
 #top {
    text-align: center;
    color: #FFFFFF;
