@@ -35,10 +35,12 @@ p.directory a {
 
 #summary {
    text-align: center;
+}
 
 p.summary a{
    color: #4B84D2;
 }
+
 #education {
    text-align: left;
 }
