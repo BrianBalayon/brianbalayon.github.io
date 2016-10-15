@@ -4,6 +4,12 @@ body {
 
 div h2 {
    text-align: center;
+
+.top {
+   text-align: right;
+   color: #FFFFF;
+}
+
 }
 
 #top {
