@@ -13,6 +13,11 @@ div h2 {
    font-weight: bold;
 }
 
+.directory {
+   display: inline;
+   list-style-type: none;
+}
+
 #top {
    text-align: center;
    font-weight: bold;
@@ -23,17 +28,6 @@ div h2 {
    text-align: center;
    float: center;
 }
-
-#directory li{
-   float: center;
-   display: inline;
-}
-
-#directory a {
-display: block;
-background-color: #DFE8F7;
-}
-
 
 #summary {
    text-align: center;
