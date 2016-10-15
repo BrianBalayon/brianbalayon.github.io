@@ -25,7 +25,8 @@ a.head {
 }
 
 #directory {
-   text-align: justify;
+   text-align: center;
+   width: 100%;
 }
 
 li.directory {
