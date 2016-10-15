@@ -25,10 +25,11 @@ a.head {
 }
 
 #directory {
+   text-align: center;
 }
 
 p.directory {
-   list-style-type: none;
+
 }
 
 p.directory a {
