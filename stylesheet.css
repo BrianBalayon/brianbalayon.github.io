@@ -19,6 +19,11 @@ div h2 {
    color: #DFE8F7;
 }
 
+a.head {
+   color: #DFE8F7;
+   padding: 10px;
+}
+
 #directory {
    text-align: center;
 }
