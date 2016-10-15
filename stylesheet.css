@@ -13,7 +13,7 @@ div h2 {
    font-weight: bold;
 }
 
-div.directory {
+.directory {
    display: inline;
    list-style-type: none;
 }
