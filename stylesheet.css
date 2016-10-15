@@ -2,11 +2,11 @@ body {
    background-color: #9EB9E6;
 }
 
-div ~ .top {
+div .top {
   text-align: left;
 }
 
-div ~ h2 {
+div h2 {
    text-align: center;
 }
 
