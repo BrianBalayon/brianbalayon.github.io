@@ -2,36 +2,33 @@ body {
    background-color: #9EB9E6;
 }
 
-.top {
-   text-align: right;
 }
 
-div.top {
+#top {
    text-align: center;
    text-decoration-color: #BED1EE;
 }
 
-div.directory {
+#directory {
    text-align: center;
    background-color: #BED1EE;
 }
 
-div.summary {
+#summary {
    text-align: center;
    background-color: #BED1EE;
 }
-
-div.education {
+#education {
    text-align: left;
    background-color: #BED1EE;
 }
 
-div.projects {
+#projects {
    text-align: left;
    background-color: #BED1EE;
 }
 
-div.interests {
+#interests {
    text-align: center;
    background-color: #BED1EE;
 }
