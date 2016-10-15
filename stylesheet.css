@@ -23,16 +23,13 @@ a.head {
    color: #FFFFFF;
 }
 
-#directory {
-   text-align: center;
-}
-
 li.directory {
    list-style-type: none;
 }
 
 li.directory a{
    color: #FFFFFF;
+   text-align: center;
 }
 
 #summary {
