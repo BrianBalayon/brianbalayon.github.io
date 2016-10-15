@@ -28,8 +28,10 @@ a.head {
 }
 
 li.directory {
-   display: inline;
    list-style-type: none;
+}
+
+li.directory a{
    color: #FFFFFF;
 }
 
