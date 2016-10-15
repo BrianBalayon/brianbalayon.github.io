@@ -21,7 +21,9 @@ div h2 {
 
 #directory {
    text-align: center;
-   float: center;
+}
+
+li.directory {
    display: inline;
    list-style-type: none;
 }
