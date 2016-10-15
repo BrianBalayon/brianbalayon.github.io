@@ -24,12 +24,14 @@ a.head {
 }
 
 li.directory {
+   display: inline;
    list-style-type: none;
+   text-align: center;
 }
 
 li.directory a{
    color: #FFFFFF;
-   text-align: center;
+
 }
 
 #summary {
