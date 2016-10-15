@@ -4,13 +4,14 @@ body {
 
 div h2 {
    text-align: center;
+}
 
-.top {
+a.top {
    text-align: right;
    color: #FFFFF;
 }
 
-}
+
 
 #top {
    text-align: center;
