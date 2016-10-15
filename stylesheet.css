@@ -19,6 +19,10 @@ div h2 {
    color: #FFFFFF;
 }
 
+p.head {
+   color: #FFFFFF;
+}
+
 #directory {
    text-align: center;
 }
@@ -26,6 +30,7 @@ div h2 {
 li.directory {
    display: inline;
    list-style-type: none;
+   color: #FFFFFF;
 }
 
 #summary {
