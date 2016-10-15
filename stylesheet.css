@@ -2,7 +2,7 @@ body {
    background-color: #9EB9E6;
 }
 
-div .top {
+div ~ .top {
   text-align: left;
 }
 
@@ -31,5 +31,5 @@ div .top {
 }
 
 div.well-lg {
-   background-color: #CEDCF2;
+   background-color: #DFE8F7;
 }
