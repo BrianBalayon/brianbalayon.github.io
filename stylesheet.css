@@ -25,14 +25,13 @@ a.head {
 }
 
 #directory {
-   text-align: center;
 }
 
-li.directory {
+p.directory {
    list-style-type: none;
 }
 
-li.directory a {
+p.directory a {
    color: #4B84D2;
    padding: 5px;
 }
