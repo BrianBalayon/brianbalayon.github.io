@@ -26,11 +26,9 @@ a.head {
 
 #directory {
    text-align: center;
-   width: 100%;
 }
 
 li.directory {
-   display: inline;
    list-style-type: none;
 }
 
