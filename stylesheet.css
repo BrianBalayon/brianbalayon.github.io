@@ -13,26 +13,21 @@ div.top {
 
 div.directory {
    text-align: center;
-   background-color: #EFF3FB;
+   background-color: #DFE8F7;
 }
 
 div.summary {
    text-align: center;
-   background-color: #DFE8F7;
-}
-
-div.education {
-   text-align: right;
    background-color: #BED1EE;
 }
 
-div.projects {
-   text-align: right;
+div.education {
+   text-align: left;
    background-color: #9EB9E6;
 }
 
 div.projects {
-   text-align: right;
+   text-align: left;
    background-color: #7DA2DE;
 }
 
