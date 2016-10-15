@@ -2,6 +2,10 @@ body {
    background-color: #9EB9E6;
 }
 
+div .top {
+  text-align: left;
+}
+
 #top {
    text-align: center;
    color: #FFFFFF;
