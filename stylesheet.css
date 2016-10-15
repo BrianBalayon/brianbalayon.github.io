@@ -11,9 +11,11 @@ div h2 {
    font-weight: bold;
 }
 
-a {
+body a {
    color: #FFFFFF;
 }
+
+
 
 }
 
@@ -24,7 +26,7 @@ a {
 
 #directory {
    text-align: center;
-   color: #000000;
+
 }
 
 #summary {
