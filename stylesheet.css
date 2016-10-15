@@ -15,7 +15,9 @@ a:link {
    color: #FFFFFF;
 }
 
-
+a:visited {
+   color: #FFFFFF;
+}
 
 #top {
    text-align: center;
