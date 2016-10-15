@@ -19,8 +19,17 @@ div h2 {
 
 #directory {
    text-align: center;
-
 }
+
+#directory li{
+   float: center;
+}
+
+#directory a {
+display: block;
+background-color: #DFE8F7;
+}
+
 
 #summary {
    text-align: center;
