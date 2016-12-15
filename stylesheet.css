@@ -18,10 +18,12 @@ body {
 
 .navbar .my-link{
     color: #FFFFFF;
+    font-family: 'Oleo Script', cursive;
 }
 
 .navbar ul li .my-link{
     color: #FFFFFF;
+    font-family: 'Oleo Script', cursive;
 }
 
 
