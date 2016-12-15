@@ -1,9 +1,13 @@
 /* CSS Style Sheet */
 
+
+/* Body */
 body {
     background-color: #FFFFFF;
 }
 
+
+/* Header and Navigation Bar */
 .navbar {
     background-color: #404487;
 }
@@ -14,4 +18,21 @@ body {
 
 .navbar ul li .my-link{
     color: #FFFFFF;
+}
+
+
+/* Footer */
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+.footer .container-fluid {
+     background-color: #230E08;
+    padding: 10px;
+ }
+
+.footer .container-fluid p {
+    color: #FFFFFF;
+    text-align: center;
 }
