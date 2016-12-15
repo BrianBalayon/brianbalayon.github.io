@@ -34,8 +34,9 @@ footer {
 }
 
 .footer .container-fluid {
-     background-color: #230E08;
+    background-color: #230E08;
     padding: 10px;
+    line-height: 50px;
  }
 
 .footer .container-fluid p {
@@ -43,10 +44,6 @@ footer {
     text-align: left;
     vertical-align: middle;
     font-family: 'Montserrat', sans-serif;
-}
-
-.footer .end-text{
-    vertical-align: middle;
 }
 
 .footer img {
