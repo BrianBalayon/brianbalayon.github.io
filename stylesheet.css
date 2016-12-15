@@ -44,6 +44,7 @@ footer {
     font-family: 'Montserrat', sans-serif;
 }
 
-.footer img {
-    max-width: 100%
+.footer a {
+    max-width: 100%;
+    text-align: right;
 }
