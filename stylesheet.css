@@ -41,10 +41,15 @@ footer {
 .footer .container-fluid p {
     color: #FFFFFF;
     text-align: left;
+    vertical-align: middle;
     font-family: 'Montserrat', sans-serif;
 }
 
-.footer a {
-    max-width: 100%;
-    text-align: right;
+.footer .end-text{
+    vertical-align: middle;
+}
+
+.footer img {
+    float: right;
+    maxh-height: 75%;
 }
