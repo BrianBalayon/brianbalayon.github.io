@@ -46,7 +46,6 @@ footer {
     font-family: 'Montserrat', sans-serif;
 }
 
-.footer img {
+.footer .badge {
     float: right;
-    maxh-height: 75%;
 }
