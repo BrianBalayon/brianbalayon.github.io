@@ -1,58 +1,17 @@
 /* CSS Style Sheet */
 
 body {
-   background-color: #081220;
+    background-color: #FFFFFF;
 }
 
-div h1 {
-   font-weight: bold;
+.navbar {
+    background-color: #404487;
 }
 
-div h2 {
-   text-align: center;
-   font-weight: bold;
+.navbar .my-link{
+    color: #FFFFFF;
 }
 
-#top {
-   text-align: center;
-   font-weight: bold;
-   color: #DFE8F7;
-}
-
-a.head {
-   color: #DFE8F7;
-   padding: 10px;
-}
-
-#directory {
-   text-align: center;
-}
-
-p.directory a {
-   color: #4B84D2;
-   padding: 5px;
-}
-
-#summary {
-   text-align: center;
-}
-
-p.summary a{
-   color: #4B84D2;
-}
-
-#education {
-   text-align: left;
-}
-
-#projects {
-   text-align: left;
-}
-
-#interests {
-   text-align: center;
-}
-
-div.well-lg {
-   background-color: #DFE8F7;
+.navbar ul li .my-link{
+    color: #FFFFFF;
 }
