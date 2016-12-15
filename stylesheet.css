@@ -1,7 +1,7 @@
 /* CSS Style Sheet */
 
 
-/* Body */
+/* General Tags */
 body {
     background-color: #FFFFFF;
 }
@@ -40,6 +40,10 @@ footer {
 
 .footer .container-fluid p {
     color: #FFFFFF;
-    text-align: center;
+    text-align: left;
     font-family: 'Montserrat', sans-serif;
+}
+
+.footer img {
+    max-width: 100%
 }
