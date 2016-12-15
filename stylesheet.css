@@ -6,6 +6,10 @@ body {
     background-color: #FFFFFF;
 }
 
+.content p {
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 /* Header and Navigation Bar */
 .navbar {
