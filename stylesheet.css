@@ -11,12 +11,6 @@ body {
 }
 
 
-/* Index Only */
-.index body {
-    background-image: url("IMG_0005.JPG");
-}
-
-
 /* Jumbotron */
 .jumbotron h1 {
     font-family: 'Oleo Script', cursive;
