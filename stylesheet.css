@@ -11,6 +11,13 @@ body {
 }
 
 
+/* Jumbotron */
+.jumbotron h1 {
+    font-family: 'Oleo Script', cursive;
+    text-align: center;
+}
+
+
 /* Header and Navigation Bar */
 .navbar {
     background-color: #404487;
