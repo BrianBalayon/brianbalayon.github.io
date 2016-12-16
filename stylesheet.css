@@ -99,6 +99,12 @@ body {
     font-family: 'Oleo Script', cursive;
 }
 
+.navbar-toggle{
+    font-size: 15px;
+    font-family: 'Oleo Script', cursive;
+    color: #FFFFFF;
+}
+
 
 /* Footer */
 footer {
