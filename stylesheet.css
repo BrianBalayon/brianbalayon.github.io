@@ -6,14 +6,31 @@ body {
     background-color: #FFFFFF;
 }
 
+.content {
+    padding: 15px;
+}
+
 .content p {
     font-family: 'Montserrat', sans-serif;
-    padding: 15px;
 }
 
 .content h1 {
     font-family: 'Oleo Script', cursive;
     text-align: center;
+    font-weight: bold;
+}
+
+.content h2{
+    font-family: 'Oleo Script', cursive;
+}
+
+.content h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content h4{
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 
