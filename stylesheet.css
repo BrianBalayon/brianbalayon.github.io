@@ -7,7 +7,8 @@ body {
 }
 
 .content {
-    padding: 15px;
+    padding-top: 50px;
+    padding-bottom: 100px;
 }
 
 .content p {
@@ -17,20 +18,27 @@ body {
 .content h1 {
     font-family: 'Oleo Script', cursive;
     text-align: center;
-    font-weight: bold;
 }
 
 .content h2{
     font-family: 'Oleo Script', cursive;
+    text-indent: 20px;
 }
 
 .content h3{
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-indent: 30px;
 }
 
 .content h4{
     font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    text-indent: 40px;
+}
 
+.content ul {
+    text-indent: 30px;
 }
 
 
@@ -78,13 +86,13 @@ footer {
     bottom: 0;
 }
 
-.footer .container-fluid {
+.footer .bot-navbar {
     background-color: #230E08;
     padding: 10px;
     line-height: 50px;
  }
 
-.footer .container-fluid p {
+.footer .bot-navbar p {
     color: #FFFFFF;
     text-align: left;
     vertical-align: middle;
