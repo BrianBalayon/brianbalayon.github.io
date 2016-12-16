@@ -1,58 +1,115 @@
 /* CSS Style Sheet */
 
+
+/* General Tags */
 body {
-   background-color: #081220;
+    background-color: #FFFFFF;
 }
 
-div h1 {
-   font-weight: bold;
+.content {
+    padding-top: 63px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
-div h2 {
-   text-align: center;
-   font-weight: bold;
+.content p {
+    font-family: 'Montserrat', sans-serif;
 }
 
-#top {
-   text-align: center;
-   font-weight: bold;
-   color: #DFE8F7;
+.content h1 {
+    font-family: 'Oleo Script', cursive;
+    text-align: center;
 }
 
-a.head {
-   color: #DFE8F7;
-   padding: 10px;
+.content h2{
+    font-family: 'Oleo Script', cursive;
+    margin-left: 20px;
 }
 
-#directory {
-   text-align: center;
+.content h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-left: 30px;
 }
 
-p.directory a {
-   color: #4B84D2;
-   padding: 5px;
+.content h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-left: 40px;
 }
 
-#summary {
-   text-align: center;
+.content ul {
+    margin-left: 40px;
+    font-family: 'Montserrat', sans-serif;
 }
 
-p.summary a{
-   color: #4B84D2;
+#special-CV-parts {
+    margin-left: 30px;
 }
 
-#education {
-   text-align: left;
+#about {
+    font-size: 15px;
 }
 
-#projects {
-   text-align: left;
+#email {
+    text-decoration: underline;
 }
 
-#interests {
-   text-align: center;
+
+/* Jumbotron */
+.jumbotron h1 {
+    font-family: 'Oleo Script', cursive;
+    text-align: center;
 }
 
-div.well-lg {
-   background-color: #DFE8F7;
+.jumbotron p {
+    text-align: center;
+}
+
+.jumbotron .btn-div {
+    text-align: center;
+}
+
+.jumbotron .btn {
+    background-color: #404487;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Header and Navigation Bar */
+.navbar {
+    background-color: #404487;
+}
+
+.navbar .my-link{
+    color: #FFFFFF;
+    font-family: 'Oleo Script', cursive;
+    font-size: 25px;
+}
+
+.navbar ul li .my-link{
+    color: #FFFFFF;
+    font-family: 'Oleo Script', cursive;
+}
+
+
+/* Footer */
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+.footer .bot-navbar {
+    background-color: #230E08;
+    padding: 10px;
+    line-height: 50px;
+ }
+
+.footer .bot-navbar p {
+    color: #FFFFFF;
+    text-align: left;
+    vertical-align: middle;
+    font-family: 'Montserrat', sans-serif;
 }
