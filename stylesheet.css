@@ -17,6 +17,19 @@ body {
     text-align: center;
 }
 
+.jumbotron p {
+    text-align: center;
+}
+
+.jumbotron .btn-div {
+    text-align: center;
+}
+
+.jumbotron .btn {
+    background-color: #404487;
+    color: #FFFFFF;
+}
+
 
 /* Header and Navigation Bar */
 .navbar {
