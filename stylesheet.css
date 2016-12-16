@@ -48,8 +48,9 @@ body {
     margin-left: 30px;
 }
 
-#about {
+.about {
     font-size: 15px;
+    text-indent: 30px;
 }
 
 #email {
