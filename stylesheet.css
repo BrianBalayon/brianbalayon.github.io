@@ -38,6 +38,11 @@ body {
 }
 
 .content ul {
+    text-indent: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content #ref {
     text-indent: 30px;
 }
 
