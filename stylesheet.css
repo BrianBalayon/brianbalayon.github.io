@@ -48,6 +48,10 @@ body {
     margin-left: 30px;
 }
 
+.poem {
+    text-align: center;
+}
+
 .about {
     font-size: 15px;
     text-indent: 45px;
