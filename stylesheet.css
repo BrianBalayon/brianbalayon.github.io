@@ -24,32 +24,36 @@ body {
 
 .content h2{
     font-family: 'Oleo Script', cursive;
-    text-indent: 20px;
+    margin-left: 20px;
 }
 
 .content h3{
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    text-indent: 30px;
+    margin-left: 30px;
 }
 
 .content h4{
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    text-indent: 40px;
+    margin-left: 40px;
 }
 
 .content ul {
-    text-indent: 40px;
+    margin-left: 40px;
     font-family: 'Montserrat', sans-serif;
 }
 
-.content #ref {
-    text-indent: 30px;
+#special-CV-parts {
+    margin-left: 30px;
 }
 
 #about {
     font-size: 15px;
+}
+
+#email {
+    text-decoration: underline;
 }
 
 
