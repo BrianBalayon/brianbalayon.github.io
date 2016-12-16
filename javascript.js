@@ -1,5 +1,3 @@
-$(document).ready(function(){
-    $(".btn").click(function(){
-        $("#to-fade").fadeIn("200");
-    });
-});
+$(function () {
+    $('[data-toggle="popover"]').popover()
+})
