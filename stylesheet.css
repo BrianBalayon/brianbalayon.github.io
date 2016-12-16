@@ -46,6 +46,7 @@ body {
 .navbar .my-link{
     color: #FFFFFF;
     font-family: 'Oleo Script', cursive;
+    font-size: 25px;
 }
 
 .navbar ul li .my-link{
