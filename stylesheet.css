@@ -113,16 +113,11 @@ body {
 
 /* Footer */
 footer {
-    position: fixed;
-    bottom: 0;
 }
 
-.footer .bot-navbar {
+.footer {
     background-color: #230E08;
     padding: 5px;
- }
-
-.footer .bot-navbar p {
     color: #FFFFFF;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
