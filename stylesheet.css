@@ -2,6 +2,11 @@
 
 
 /* General Tags */
+
+.dropdown-backdrop {
+    position: static;
+}
+
 body {
     background-color: #FFFFFF;
 }
@@ -112,9 +117,6 @@ body {
 
 
 /* Footer */
-footer {
-}
-
 .footer {
     background-color: #230E08;
     padding: 5px;
