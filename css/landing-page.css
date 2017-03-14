@@ -116,7 +116,6 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -170,5 +169,29 @@ p.copyright {
 }
 
 #aboutbanner {
-    background: url(../img/IFtinikling.jpg) no-repeat center center;
+    background: url(../img/) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#contactbanner {
+    background: url(../img/) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#cvbanner {
+    background: url(../img/davis.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+p.about {
+    text-indent: 50px;
 }
