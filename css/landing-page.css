@@ -195,3 +195,15 @@ p.copyright {
 p.about {
     text-indent: 50px;
 }
+
+.about h2 {
+    margin-left: 25px;
+}
+
+.about h3, ul {
+    margin-left: 50px;
+}
+
+.about p {
+    margin-left: 75px;
+}
