@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/brianbalayon.github.io/static/css/main.3815c546.chunk.css",
+    "main.js": "/brianbalayon.github.io/static/js/main.8bf33327.chunk.js",
+    "main.js.map": "/brianbalayon.github.io/static/js/main.8bf33327.chunk.js.map",
+    "runtime-main.js": "/brianbalayon.github.io/static/js/runtime-main.1eef872c.js",
+    "runtime-main.js.map": "/brianbalayon.github.io/static/js/runtime-main.1eef872c.js.map",
+    "static/css/2.69121389.chunk.css": "/brianbalayon.github.io/static/css/2.69121389.chunk.css",
+    "static/js/2.796efad7.chunk.js": "/brianbalayon.github.io/static/js/2.796efad7.chunk.js",
+    "static/js/2.796efad7.chunk.js.map": "/brianbalayon.github.io/static/js/2.796efad7.chunk.js.map",
+    "index.html": "/brianbalayon.github.io/index.html",
+    "precache-manifest.5de562eff9a138bf439257152b41b7f8.js": "/brianbalayon.github.io/precache-manifest.5de562eff9a138bf439257152b41b7f8.js",
+    "service-worker.js": "/brianbalayon.github.io/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/brianbalayon.github.io/static/css/2.69121389.chunk.css.map",
+    "static/css/main.3815c546.chunk.css.map": "/brianbalayon.github.io/static/css/main.3815c546.chunk.css.map",
+    "static/js/2.796efad7.chunk.js.LICENSE.txt": "/brianbalayon.github.io/static/js/2.796efad7.chunk.js.LICENSE.txt",
+    "static/media/BrianBalayon.png": "/brianbalayon.github.io/static/media/BrianBalayon.1d439eb6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eef872c.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.796efad7.chunk.js",
+    "static/css/main.3815c546.chunk.css",
+    "static/js/main.8bf33327.chunk.js"
+  ]
+}

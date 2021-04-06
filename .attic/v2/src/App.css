@@ -1,0 +1,142 @@
+:root {
+  --accent-color: #7f6fa2;
+  --bg-color: #F5F7F6;
+  --txt-color: #2c2d2d;
+  --card-border-color: #F1EEE630;
+}
+
+html {
+  font-size: 2vh;
+}
+
+.WholePage {
+  padding: 0% 15% 0%;
+  background: var(--bg-color) !important;
+  color: var(--txt-color) !important;
+}
+
+.WholePage * {
+  background: var(--bg-color) !important;
+  color: var(--txt-color) !important;
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+.WholePage h1 {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.WholePage h2 {
+  font-size: 1.75rem;
+}
+
+.WholePage h3 {
+  font-size: 1.25rem;
+  margin: 0 !important;
+}
+
+.WholePage p {
+  font-size: 1rem;
+}
+
+.WholeModule {
+  padding-bottom: 20vh;
+}
+
+p>a {
+  color: var(--accent-color) !important;
+  font-weight: bold !important;
+  text-decoration: underline;
+}
+
+/* .navbar-nav a.nav-link, a.nav-link, .btn {
+  text-decoration: none !important;
+} */
+
+.Experience a.nav-link.active {
+  color: var(--txt-color) !important;
+  background-color: var(--accent-color) !important;
+  font-weight: bold;
+}
+
+.ContactButton {
+  border-color: var(--accent-color) !important;
+  color: var(--txt-color) !important;
+}
+
+.btn:hover {
+  background-color: var(--accent-color) !important;
+}
+
+.ContactButton:hover {
+  color: var(--txt-color) !important;
+}
+
+.CvEntryView>h1 {
+  font-size: 2rem;
+}
+
+.Experience {
+  padding-left: 5vw;
+  padding-right: 5vw;
+  margin: auto;
+}
+
+.Experience a.nav-link:hover{
+  color: var(--txt-color) !important;
+}
+
+.Experience a.nav-link.active:hover {
+  background-color: var(--accent-color) !important;
+  color: var(--txt-color) !important;
+}
+
+.experienceCard {
+  margin: 1vh 0;
+}
+
+.navbar a {
+  color: var(--txt-color) !important;
+  padding: 5px 12px;
+}
+
+.navbar .active {
+  border-radius: 4px;
+  background-color: var(--accent-color);
+  color: var(--txt-color) !important;
+}
+
+.nav-item {
+  padding: 1vh 1vw;
+}
+
+.bg-dark.navbar {
+  background-color: #323434 !important;
+}
+
+.SkillsComponent {
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+.IntroComponent .row * {
+  padding: 2vh 0;
+}
+
+.IntroComponent .row * {
+  margin: auto 0;
+}
+
+.filler {
+  height: 15vh;
+}
+
+.EducationComponent {
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+.EducationComponent .card-header p {
+  margin: 1vh 0 !important;
+}
